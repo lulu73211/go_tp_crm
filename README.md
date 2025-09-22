@@ -1,4 +1,4 @@
-GO TP CRM
+GO TP CRM Labeye Lucas M2
 
 Petit tp en Go : mini CRM en ligne de commande
 Il permet de gérer une liste de contacts (CRUD)
